@@ -2,8 +2,12 @@
 @import './utils/variables';
 @import './utils/visually-hidden';
 
+
+
 //BASE
 @import './base/common';
+
+
 
 //COMPONENTS
 @import './components/container';
@@ -15,6 +19,8 @@
 @import './components/team-icon-item';
 @import './components/team-link';
 
+
+
 //LAYOUT
 @import './layout/header';
 @import './layout/hero';
@@ -23,3 +29,5 @@
 @import './layout/customer';
 @import './layout/footer';
 @import './layout/portfolio';
+
+
